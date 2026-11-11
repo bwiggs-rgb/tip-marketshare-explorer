@@ -1,5 +1,8 @@
 # Market Share Explorer
 
-Upload these files and folders to the root of your GitHub repository. In Settings > Pages, deploy from main, / (root). No build required.
+Updated November 11, 2026. This is the full Market Share Explorer with its existing design, tabs, data, and functionality. All 20 district reports contain five pages; the inaccurate registration-profile opening page has been removed, and the website label reads 5-page district report.
 
-District PDFs contain six pages, ordered from local registration profile to district/county snapshot, sector trends, member county market comparison, scholarships, and district enrollment comparison. Registration snapshots are dated November 10, 2026 and differ from the 2022-23 through 2024-25 historical series.
+## GitHub Pages
+Extract this ZIP and upload all files and the reports folder to your repository root. Under Settings > Pages, select Deploy from a branch, main, / (root). No build step or dependencies required.
+
+This package contains no homeschool address CSVs. Uploading this package does not remove obsolete files or Git history already in a repository.
