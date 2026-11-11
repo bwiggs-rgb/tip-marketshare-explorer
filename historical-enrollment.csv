@@ -1,0 +1,121 @@
+district,county,school_year,estimated_homeschool_students,registered_home_schools,private_enrollment,district_final_ADM,county_public_final_ADM,charter_lab_regional_final_ADM,county_scholarship_recipients,county_scholarship_disbursements,verification
+Asheboro City Schools,Randolph,2019-20,2922,1863,803,,,,,,Blank means not verified; not zero
+Asheboro City Schools,Randolph,2020-21,3451,2141,690,,,,,,Blank means not verified; not zero
+Asheboro City Schools,Randolph,2021-22,2795,1731,787,,,,,,Blank means not verified; not zero
+Asheboro City Schools,Randolph,2022-23,2626,1651,1054,4347,19417,1854,465,2126658,Blank means not verified; not zero
+Asheboro City Schools,Randolph,2023-24,2900,1831,1137,4348,19283,2093,587,2913285,Blank means not verified; not zero
+Asheboro City Schools,Randolph,2024-25,3010,1948,1231,4533,19207,2209,1179,5783669,Blank means not verified; not zero
+Cabarrus County Schools,Cabarrus,2019-20,3993,2506,1998,,,,,,Blank means not verified; not zero
+Cabarrus County Schools,Cabarrus,2020-21,4883,3002,2153,,,,,,Blank means not verified; not zero
+Cabarrus County Schools,Cabarrus,2021-22,4367,2726,2220,,,,,,Blank means not verified; not zero
+Cabarrus County Schools,Cabarrus,2022-23,4283,2632,2488,34593,39950,2326,374,2135457,Blank means not verified; not zero
+Cabarrus County Schools,Cabarrus,2023-24,4160,2493,2541,34889,40195,2604,451,2723030,Blank means not verified; not zero
+Cabarrus County Schools,Cabarrus,2024-25,4386,2644,2690,34999,40299,2554,1442,7915084,Blank means not verified; not zero
+Chapel Hill-Carrboro City Schools,Orange,2019-20,1400,943,1115,,,,,,Blank means not verified; not zero
+Chapel Hill-Carrboro City Schools,Orange,2020-21,1796,1182,1063,,,,,,Blank means not verified; not zero
+Chapel Hill-Carrboro City Schools,Orange,2021-22,1601,1057,1224,,,,,,Blank means not verified; not zero
+Chapel Hill-Carrboro City Schools,Orange,2022-23,1276,781,1248,11371,18437,1109,141,804957,Blank means not verified; not zero
+Chapel Hill-Carrboro City Schools,Orange,2023-24,1251,780,1249,11253,18217,1157,158,957360,Blank means not verified; not zero
+Chapel Hill-Carrboro City Schools,Orange,2024-25,1002,643,1283,11065,17948,1201,618,3072420,Blank means not verified; not zero
+Charlotte-Mecklenburg Schools,Mecklenburg,2019-20,11148,7251,18378,,,,,,Blank means not verified; not zero
+Charlotte-Mecklenburg Schools,Mecklenburg,2020-21,13279,8513,18812,,,,,,Blank means not verified; not zero
+Charlotte-Mecklenburg Schools,Mecklenburg,2021-22,11429,7394,19516,,,,,,Blank means not verified; not zero
+Charlotte-Mecklenburg Schools,Mecklenburg,2022-23,11062,7049,20857,140437,140437,22627,1711,9579595,Blank means not verified; not zero
+Charlotte-Mecklenburg Schools,Mecklenburg,2023-24,11580,7316,20965,140199,140199,23971,2150,13288433,Blank means not verified; not zero
+Charlotte-Mecklenburg Schools,Mecklenburg,2024-25,11626,7376,21882,140801,140801,24700,7858,39174767,Blank means not verified; not zero
+Cumberland County Schools,Cumberland,2019-20,4054,2575,4926,,,,,,Blank means not verified; not zero
+Cumberland County Schools,Cumberland,2020-21,4561,2791,5095,,,,,,Blank means not verified; not zero
+Cumberland County Schools,Cumberland,2021-22,4626,2808,5327,,,,,,Blank means not verified; not zero
+Cumberland County Schools,Cumberland,2022-23,4087,2346,5716,48300,48300,1735,2148,12017309,Blank means not verified; not zero
+Cumberland County Schools,Cumberland,2023-24,4613,2690,5970,47816,47816,1763,2563,15308534,Blank means not verified; not zero
+Cumberland County Schools,Cumberland,2024-25,4851,2881,6274,47840,47840,1760,3852,23414300,Blank means not verified; not zero
+Durham Public Schools,Durham,2019-20,2536,1576,5072,,,,,,Blank means not verified; not zero
+Durham Public Schools,Durham,2020-21,2947,1827,4999,,,,,,Blank means not verified; not zero
+Durham Public Schools,Durham,2021-22,2561,1604,5392,,,,,,Blank means not verified; not zero
+Durham Public Schools,Durham,2022-23,1950,1113,5672,30736,30736,12869,809,4612325,Blank means not verified; not zero
+Durham Public Schools,Durham,2023-24,2016,1154,5687,30735,30735,13375,1009,6217323,Blank means not verified; not zero
+Durham Public Schools,Durham,2024-25,1851,1053,5828,30722,30722,14167,2061,11604705,Blank means not verified; not zero
+Edgecombe County Schools,Edgecombe,2019-20,514,352,0,,,,,,Blank means not verified; not zero
+Edgecombe County Schools,Edgecombe,2020-21,608,400,0,,,,,,Blank means not verified; not zero
+Edgecombe County Schools,Edgecombe,2021-22,499,342,0,,,,,,Blank means not verified; not zero
+Edgecombe County Schools,Edgecombe,2022-23,535,357,0,5203,5203,909,53,271279,Blank means not verified; not zero
+Edgecombe County Schools,Edgecombe,2023-24,460,288,0,5098,5098,1006,93,541187,Blank means not verified; not zero
+Edgecombe County Schools,Edgecombe,2024-25,474,291,3,6106,6106,1052,150,832957,Blank means not verified; not zero
+Elizabeth City-Pasquotank Public Schools,Pasquotank,2019-20,821,551,595,,,,,,Blank means not verified; not zero
+Elizabeth City-Pasquotank Public Schools,Pasquotank,2020-21,987,637,618,,,,,,Blank means not verified; not zero
+Elizabeth City-Pasquotank Public Schools,Pasquotank,2021-22,860,553,670,,,,,,Blank means not verified; not zero
+Elizabeth City-Pasquotank Public Schools,Pasquotank,2022-23,549,313,719,4612,4612,741,215,799355,Blank means not verified; not zero
+Elizabeth City-Pasquotank Public Schools,Pasquotank,2023-24,487,278,817,4562,4562,745,303,1207408,Blank means not verified; not zero
+Elizabeth City-Pasquotank Public Schools,Pasquotank,2024-25,523,316,794,4570,4570,747,491,2218349,Blank means not verified; not zero
+Guilford County Schools,Guilford,2019-20,5827,3783,6191,,,,,,Blank means not verified; not zero
+Guilford County Schools,Guilford,2020-21,7052,4545,6262,,,,,,Blank means not verified; not zero
+Guilford County Schools,Guilford,2021-22,6101,3890,6509,,,,,,Blank means not verified; not zero
+Guilford County Schools,Guilford,2022-23,4747,2776,6826,66817,66817,9797,1413,7663469,Blank means not verified; not zero
+Guilford County Schools,Guilford,2023-24,4999,2950,7156,65805,65805,10352,1742,10312901,Blank means not verified; not zero
+Guilford County Schools,Guilford,2024-25,4278,2502,7367,65633,65633,10746,4350,23786269,Blank means not verified; not zero
+Hertford County Schools,Hertford,2019-20,152,98,465,,,,,,Blank means not verified; not zero
+Hertford County Schools,Hertford,2020-21,181,119,466,,,,,,Blank means not verified; not zero
+Hertford County Schools,Hertford,2021-22,208,124,466,,,,,,Blank means not verified; not zero
+Hertford County Schools,Hertford,2022-23,160,89,536,2328,2328,0,83,347179,Blank means not verified; not zero
+Hertford County Schools,Hertford,2023-24,143,82,469,2274,2274,0,107,473733,Blank means not verified; not zero
+Hertford County Schools,Hertford,2024-25,174,103,525,2178,2178,0,229,1040957,Blank means not verified; not zero
+Lexington City Schools,Davidson,2019-20,3244,2029,1218,,,,,,Blank means not verified; not zero
+Lexington City Schools,Davidson,2020-21,3848,2359,1266,,,,,,Blank means not verified; not zero
+Lexington City Schools,Davidson,2021-22,3335,2068,1333,,,,,,Blank means not verified; not zero
+Lexington City Schools,Davidson,2022-23,3228,2032,1475,2881,22657,556,471,2422533,Blank means not verified; not zero
+Lexington City Schools,Davidson,2023-24,3233,2013,1544,2848,22533,577,625,3504268,Blank means not verified; not zero
+Lexington City Schools,Davidson,2024-25,3614,2282,1603,2803,22420,621,1536,8708282,Blank means not verified; not zero
+Orange County Public Schools,Orange,2019-20,1400,943,1115,,,,,,Blank means not verified; not zero
+Orange County Public Schools,Orange,2020-21,1796,1182,1063,,,,,,Blank means not verified; not zero
+Orange County Public Schools,Orange,2021-22,1601,1057,1224,,,,,,Blank means not verified; not zero
+Orange County Public Schools,Orange,2022-23,1276,781,1248,7066,18437,1109,141,804957,Blank means not verified; not zero
+Orange County Public Schools,Orange,2023-24,1251,780,1249,6964,18217,1157,158,957360,Blank means not verified; not zero
+Orange County Public Schools,Orange,2024-25,1002,643,1283,6883,17948,1201,618,3072420,Blank means not verified; not zero
+Rockingham County Schools,Rockingham,2019-20,1385,912,328,,,,,,Blank means not verified; not zero
+Rockingham County Schools,Rockingham,2020-21,1730,1094,342,,,,,,Blank means not verified; not zero
+Rockingham County Schools,Rockingham,2021-22,1642,1035,391,,,,,,Blank means not verified; not zero
+Rockingham County Schools,Rockingham,2022-23,1749,1092,681,10787,10787,949,244,1312194,Blank means not verified; not zero
+Rockingham County Schools,Rockingham,2023-24,1891,1178,694,10968,10968,722,333,1942579,Blank means not verified; not zero
+Rockingham County Schools,Rockingham,2024-25,2023,1263,774,10692,10692,824,618,3735157,Blank means not verified; not zero
+Rowan-Salisbury Schools,Rowan,2019-20,2948,1860,1024,,,,,,Blank means not verified; not zero
+Rowan-Salisbury Schools,Rowan,2020-21,3379,2101,1135,,,,,,Blank means not verified; not zero
+Rowan-Salisbury Schools,Rowan,2021-22,2833,1771,1126,,,,,,Blank means not verified; not zero
+Rowan-Salisbury Schools,Rowan,2022-23,2947,1802,1300,17769,17769,586,476,2500213,Blank means not verified; not zero
+Rowan-Salisbury Schools,Rowan,2023-24,3177,1945,1184,17604,17604,773,603,3492029,Blank means not verified; not zero
+Rowan-Salisbury Schools,Rowan,2024-25,3373,2067,1358,17436,17436,926,1233,7242037,Blank means not verified; not zero
+Sampson County Schools,Sampson,2019-20,490,329,678,,,,,,Blank means not verified; not zero
+Sampson County Schools,Sampson,2020-21,593,391,811,,,,,,Blank means not verified; not zero
+Sampson County Schools,Sampson,2021-22,521,343,864,,,,,,Blank means not verified; not zero
+Sampson County Schools,Sampson,2022-23,452,273,1007,7709,10582,0,313,1699567,Blank means not verified; not zero
+Sampson County Schools,Sampson,2023-24,428,264,1052,7820,10666,0,389,2233609,Blank means not verified; not zero
+Sampson County Schools,Sampson,2024-25,519,330,1099,7716,10582,0,722,4158293,Blank means not verified; not zero
+Thomasville City Schools,Davidson,2019-20,3244,2029,1218,,,,,,Blank means not verified; not zero
+Thomasville City Schools,Davidson,2020-21,3848,2359,1266,,,,,,Blank means not verified; not zero
+Thomasville City Schools,Davidson,2021-22,3335,2068,1333,,,,,,Blank means not verified; not zero
+Thomasville City Schools,Davidson,2022-23,3228,2032,1475,2126,22657,556,471,2422533,Blank means not verified; not zero
+Thomasville City Schools,Davidson,2023-24,3233,2013,1544,2102,22533,577,625,3504268,Blank means not verified; not zero
+Thomasville City Schools,Davidson,2024-25,3614,2282,1603,2087,22420,621,1536,8708282,Blank means not verified; not zero
+Vance County Schools,Vance,2019-20,685,493,487,,,,,,Blank means not verified; not zero
+Vance County Schools,Vance,2020-21,762,533,447,,,,,,Blank means not verified; not zero
+Vance County Schools,Vance,2021-22,640,439,467,,,,,,Blank means not verified; not zero
+Vance County Schools,Vance,2022-23,461,286,516,4897,4897,2236,91,483574,Blank means not verified; not zero
+Vance County Schools,Vance,2023-24,411,255,561,5069,5069,2221,111,638603,Blank means not verified; not zero
+Vance County Schools,Vance,2024-25,504,312,665,4913,4913,2238,235,1373935,Blank means not verified; not zero
+Wake County Public School System,Wake,2019-20,13575,8386,19095,,,,,,Blank means not verified; not zero
+Wake County Public School System,Wake,2020-21,16347,10090,19385,,,,,,Blank means not verified; not zero
+Wake County Public School System,Wake,2021-22,14408,9002,20873,,,,,,Blank means not verified; not zero
+Wake County Public School System,Wake,2022-23,14009,8768,21699,157847,157847,17299,1601,8877540,Blank means not verified; not zero
+Wake County Public School System,Wake,2023-24,15025,9412,22413,159675,159675,17891,2052,12133706,Blank means not verified; not zero
+Wake County Public School System,Wake,2024-25,15454,9723,21621,160489,160489,20762,10543,50744303,Blank means not verified; not zero
+Warren County Schools,Warren,2019-20,207,123,19,,,,,,Blank means not verified; not zero
+Warren County Schools,Warren,2020-21,249,149,19,,,,,,Blank means not verified; not zero
+Warren County Schools,Warren,2021-22,244,148,19,,,,,,Blank means not verified; not zero
+Warren County Schools,Warren,2022-23,183,112,19,1702,1702,137,78,439294,Blank means not verified; not zero
+Warren County Schools,Warren,2023-24,171,100,22,1583,1583,142,93,564893,Blank means not verified; not zero
+Warren County Schools,Warren,2024-25,198,124,16,1475,1475,140,151,903552,Blank means not verified; not zero
+Winston-Salem/Forsyth County Schools,Forsyth,2019-20,4261,2692,4461,,,,,,Blank means not verified; not zero
+Winston-Salem/Forsyth County Schools,Forsyth,2020-21,5444,3392,4675,,,,,,Blank means not verified; not zero
+Winston-Salem/Forsyth County Schools,Forsyth,2021-22,5034,3136,4953,,,,,,Blank means not verified; not zero
+Winston-Salem/Forsyth County Schools,Forsyth,2022-23,5115,3183,5758,51430,51430,3721,1055,5304809,Blank means not verified; not zero
+Winston-Salem/Forsyth County Schools,Forsyth,2023-24,5532,3428,5743,50789,50789,3923,1337,7385075,Blank means not verified; not zero
+Winston-Salem/Forsyth County Schools,Forsyth,2024-25,5765,3624,6082,50105,50105,4336,3356,18456449,Blank means not verified; not zero

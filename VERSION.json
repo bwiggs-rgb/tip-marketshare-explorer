@@ -1,0 +1,24 @@
+{
+  "name": "Market Share Explorer",
+  "version": "2.0",
+  "status": "partial historical extension",
+  "previous_version": "1.0",
+  "verified_full_series": [
+    "county homeschool enrollment",
+    "county registered home schools",
+    "county private enrollment"
+  ],
+  "historical_range": [
+    "2019-20",
+    "2024-25"
+  ],
+  "unverified_early_series": [
+    "district final ADM",
+    "county public enrollment",
+    "charter/lab/regional enrollment",
+    "market shares",
+    "county scholarship dollars and recipients",
+    "county population"
+  ],
+  "gpt_sites_modified": false
+}
